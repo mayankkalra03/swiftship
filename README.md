@@ -6,8 +6,8 @@ This application is a shipment delivery system built using React, Tailwind CSS, 
 
 ### For Users
 
-    - Create New Shipment: Users can create new shipments by providing details such as sender's name and address, receiver's name and address, item type, weight, and cost.
-    - Track Shipments: Users can track the status of their shipments (picked, in transit, delivered).
+- Create New Shipment: Users can create new shipments by providing details such as sender's name and address, receiver's name and address, item type, weight, and cost.
+- Track Shipments: Users can track the status of their shipments (picked, in transit, delivered).
 
 ### For Admin
 
