@@ -11,9 +11,9 @@ This application is a shipment delivery system built using React, Tailwind CSS, 
 
 ### For Admin
 
-    - View Total Registered Users: Admin can view the total number of registered users.
-    - View Total Shipments: Admin can see the total number of shipments created.
-    - Manage Shipments: Admin can change the status of shipments (e.g., from picked to in transit, or from in transit to delivered).
+- View Total Registered Users: Admin can view the total number of registered users.
+- View Total Shipments: Admin can see the total number of shipments created.
+- Manage Shipments: Admin can change the status of shipments (e.g., from picked to in transit, or from in transit to delivered).
 
 ## Getting Started
 
@@ -21,9 +21,9 @@ To get started with the project locally, follow these steps:
 
 ### Prerequisites
 
-    1. Node.js installed on your local machine.
-    2. Firebase account and a Firebase project set up.
-    3. Razorpay account and API keys.
+1. Node.js installed on your local machine.
+2. Firebase account and a Firebase project set up.
+3. Razorpay account and API keys.
 
 ### Installation
 
@@ -46,14 +46,14 @@ npm install
 
 ### 3. Set up Firebase configuration:
 
-    1. Create a Firebase project and set up Firebase Authentication and Firestore.
-    2. Obtain your Firebase configuration (apiKey, authDomain, projectId, etc.) and replace placeholders in your project setup.
-    3. Ensure Firebase Authentication is set up with email/password authentication enabled.
+1. Create a Firebase project and set up Firebase Authentication and Firestore.
+2. Obtain your Firebase configuration (apiKey, authDomain, projectId, etc.) and replace placeholders in your project setup.
+3. Ensure Firebase Authentication is set up with email/password authentication enabled.
 
 ### 4. Set up Razorpay integration:
 
-    1. Obtain your Razorpay API keys (key ID and key secret).
-    2. Integrate Razorpay payment processing functionality as per your application's requirements.
+1. Obtain your Razorpay API keys (key ID and key secret).
+2. Integrate Razorpay payment processing functionality as per your application's requirements.
 
 ### 5. Start the application
 
